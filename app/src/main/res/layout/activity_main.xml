@@ -70,6 +70,7 @@
     <info.hoang8f.widget.FButton
         android:id="@+id/buildItButton"
         android:text="BUILD IT BIGGER"
+        android:textSize="15dp"
         fbutton:buttonColor="@color/fbutton_color_carrot"
         android:layout_height="55dp"
         android:layout_width="250dp"
